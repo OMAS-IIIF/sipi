@@ -1,2 +1,2 @@
-# sipi
+# Sipi
 Simple Image Presentation Interface

@@ -32,7 +32,7 @@
 #include <sys/time.h>
 #include <algorithm>
 
-#include "SipiConfig.h"
+#include "HasAtimeSpec.h"
 
 namespace Sipi {
 

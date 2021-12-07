@@ -1,0 +1,2 @@
+#define sipilib_VERSION_MAJOR @sipilib_VERSION_MAJOR@
+#define sipilib_VERSION_MINOR @sipilib_VERSION_MINOR@

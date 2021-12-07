@@ -1,0 +1,7 @@
+#ifndef _has_atime_spec_h
+#define
+
+#cmakedefine HAVE_MALLOC_H 1
+#cmakedefine HAVE_ST_ATIMESPEC
+
+#endif
